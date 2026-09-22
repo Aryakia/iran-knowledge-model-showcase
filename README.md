@@ -2,6 +2,8 @@
 
 **An exploratory historical System Dynamics model of knowledge capital and realized societal cognitive capability across roughly 2,700 years of Iranian history.**
 
+[View the conceptual model diagram and evidence boundaries](docs/VISUAL_CASE_STUDY.md) · [Public case-study page](index.html)
+
 | | |
 |---|---|
 | **Project type** | System Dynamics · historical modeling · knowledge systems |
